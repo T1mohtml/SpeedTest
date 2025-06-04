@@ -38,7 +38,7 @@ async function testDownloadSpeed() {
     } catch (error) {
         // Handle errors and reset the UI
         loadingDiv.textContent = "";
-        resultDiv.textContent = "Error measuring speed. Check your internet connection.";
+        resultDiv.textContent = "Error measuring speed, Check your  internet connection.";
         console.error(error);
     } finally {
         // Re-enable the button
