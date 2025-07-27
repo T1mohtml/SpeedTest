@@ -11,4 +11,4 @@
 ## **OPTION 2. WEB APP**
 ---
 1. open your prefered browser
-2. Go to [t1mohtml.github.io/SpeedTest](t1mohtml.github.io/SpeedTest)
+2. Go to [t1mohtml.github.io/SpeedTest](https://t1mohtml.github.io/SpeedTest)
