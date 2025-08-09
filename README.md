@@ -1,3 +1,4 @@
+[![Stand With Ukraine](https://raw.githubusercontent.com/vshymanskyy/StandWithUkraine/main/banner-direct-single.svg)](https://stand-with-ukraine.pp.ua)
 # SPEEDTEST
 ---
 ### This app tests your internet speed by downloading a 100MB test file from cloudflare
